@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6414b107-c5a1-4868-bc4a-d46532353e51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cmfz_llf/src/main/java/com/baizhi/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cmfz_llf/src/main/java/com/baizhi/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cmfz_llf/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cmfz_llf/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cxks_maven_test1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/cxks_maven_test1/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cxks_maven_test1/cxks_maven_test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cxks_maven_test1/cxks_maven_test1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cxks_maven_test1/src/main/java/com/llf/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/cxks_maven_test1/src/main/java/com/llf/entity/User.java" afterDir="false" />
@@ -107,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/cxks_maven_test1/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -387,18 +389,18 @@
       <workItem from="1583579586442" duration="4366000" />
       <workItem from="1583656013637" duration="135000" />
       <workItem from="1583724789285" duration="5558000" />
-      <workItem from="1583737114961" duration="4539000" />
+      <workItem from="1583737114961" duration="4565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36292000" />
+    <option name="totallyTimeSpent" value="36318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="168" y="20" width="1360" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.281106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.281106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -414,7 +416,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32776934" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32776934" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32776934" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -579,7 +581,7 @@
     <entry file="file://$PROJECT_DIR$/cxks_maven_test1/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
