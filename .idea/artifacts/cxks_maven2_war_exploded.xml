@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cxks_maven2:war exploded">
+    <output-path>$PROJECT_DIR$/cxks_maven2/target/cxks_maven2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cxks_maven2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/cxks_maven2/target/cxks_maven2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="cxks_maven2/web/Web" />
+    </root>
+  </artifact>
+</component>

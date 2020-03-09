@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-fileupload-1.3">
+    <CLASSES>
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/commons-fileupload-1.3.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/commons-io-2.2.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/freemarker-2.3.19.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/ognl-3.0.6.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/struts2-core-2.3.16.jar!/" />
+      <root url="jar://E:/学习/javaWeb/Struts2/资料/lib/xwork-core-2.3.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
